@@ -48,7 +48,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; Santhosh Technologies 2019</p>
+		<p>&copy; Santhosh Technologies 2023</p>
 	</footer>
 </div>
 
